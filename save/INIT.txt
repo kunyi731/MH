@@ -1,0 +1,10 @@
+#Thu Nov 28 02:49:53 PST 2013
+gun_rireki=144,192,97,101,89,96,91
+hunterRank=8
+out=0,0,0,0,0,0,1,0,0,0,0,0,0,0
+matome=0
+sex=2
+type=1
+villageRank=6
+ken_rireki=81,171,44,43,46,169,121,51,80,35,28
+table=100
